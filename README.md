@@ -1,4 +1,4 @@
-# A developer blog usig Gatsby and MDX
+# A developer blog using Gatsby and MDX
 
 Following thsi tutorial: "How to Build Your Coding Blog From Scratch Using Gatsby and MDX"
 
