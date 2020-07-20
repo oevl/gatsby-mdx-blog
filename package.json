@@ -1,0 +1,27 @@
+{
+  "name": "gatsby.mdx.blog",
+  "version": "1.0.0",
+  "description": "Developer blog usig Gatsby and MDX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "gatsby develop --host=0.0.0.0 -p 9988 -o"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mdx-js/mdx": "^1.6.7",
+    "@mdx-js/react": "^1.6.7",
+    "babel-plugin-styled-components": "^1.10.7",
+    "gatsby": "^2.24.3",
+    "gatsby-plugin-mdx": "^1.2.26",
+    "gatsby-plugin-styled-components": "^3.3.10",
+    "gatsby-source-filesystem": "^2.3.19",
+    "prism-react-renderer": "^1.1.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-live": "^2.2.2",
+    "styled-components": "^5.1.1"
+  }
+}
